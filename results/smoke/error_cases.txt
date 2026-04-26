@@ -1,0 +1,8 @@
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/AnnualCrop/AnnualCrop_502.jpg | true=AnnualCrop | pred=PermanentCrop
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/Residential/Residential_715.jpg | true=Residential | pred=HerbaceousVegetation
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/River/River_1198.jpg | true=River | pred=Forest
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/Highway/Highway_2311.jpg | true=Highway | pred=AnnualCrop
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/PermanentCrop/PermanentCrop_902.jpg | true=PermanentCrop | pred=AnnualCrop
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/Highway/Highway_2245.jpg | true=Highway | pred=SeaLake
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/SeaLake/SeaLake_740.jpg | true=SeaLake | pred=Forest
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/Highway/Highway_1780.jpg | true=Highway | pred=Industrial

@@ -1,0 +1,12 @@
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/AnnualCrop/AnnualCrop_502.jpg | true=AnnualCrop | pred=PermanentCrop
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/Pasture/Pasture_948.jpg | true=Pasture | pred=Forest
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/Residential/Residential_715.jpg | true=Residential | pred=HerbaceousVegetation
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/Highway/Highway_2311.jpg | true=Highway | pred=PermanentCrop
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/PermanentCrop/PermanentCrop_902.jpg | true=PermanentCrop | pred=HerbaceousVegetation
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/Highway/Highway_2245.jpg | true=Highway | pred=SeaLake
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/AnnualCrop/AnnualCrop_418.jpg | true=AnnualCrop | pred=HerbaceousVegetation
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/Highway/Highway_1780.jpg | true=Highway | pred=Residential
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/SeaLake/SeaLake_1351.jpg | true=SeaLake | pred=Residential
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/Residential/Residential_1601.jpg | true=Residential | pred=Highway
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_2562.jpg | true=HerbaceousVegetation | pred=PermanentCrop
+/Users/zhouyangjie/scripts/hw1/EuroSAT_RGB/Highway/Highway_149.jpg | true=Highway | pred=Residential
